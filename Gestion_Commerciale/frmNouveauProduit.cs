@@ -20,11 +20,6 @@ namespace Gestion_Commerciale
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnAnnuler_Click(object sender, EventArgs e)
         {
             this.Close();
