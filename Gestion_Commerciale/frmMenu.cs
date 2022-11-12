@@ -16,5 +16,18 @@ namespace Gestion_Commerciale
         {
             InitializeComponent();
         }
+
+        private void btnProduits_Click(object sender, EventArgs e)
+        {
+            frmProduits frmProduits = new frmProduits();
+            frmProduits.ShowDialog();
+        }
+
+        private void btnDéconnexion_Click(object sender, EventArgs e)
+        {
+            //this.Close(); (pas encore d'authentification donc this.close fermera le programe)
+            frmAuthentification frmAuthentification = new frmAuthentification();
+            frmAuthentification.ShowDialog();
+        }
     }
 }

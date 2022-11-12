@@ -16,7 +16,7 @@ namespace Gestion_Commerciale
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAuthentification());
+            Application.Run(new frmMenu());
         }
     }
 }

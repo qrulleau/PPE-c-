@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\PPE-c-\LibProduits\bin\Debug\LibProduits.dll
+C:\Users\admin\Desktop\PPE-c-\LibProduits\bin\Debug\LibProduits.pdb
+C:\Users\admin\Desktop\PPE-c-\LibProduits\obj\Debug\LibProduits.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PPE-c-\LibProduits\obj\Debug\LibProduits.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PPE-c-\LibProduits\obj\Debug\LibProduits.dll
+C:\Users\admin\Desktop\PPE-c-\LibProduits\obj\Debug\LibProduits.pdb

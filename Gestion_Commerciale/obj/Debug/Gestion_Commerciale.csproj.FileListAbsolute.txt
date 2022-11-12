@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.frmAuthentification.resources
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.frmMenu.resources
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.frmNouveauProduit.resources
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.frmProduits.resources
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.Properties.Resources.resources
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PPE-c-\Gestion_Commerciale\obj\Debug\Gestion_Commerciale.csproj.CoreCompileInputs.cache
